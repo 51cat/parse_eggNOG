@@ -1,2 +1,3 @@
 # parse_eggNOG
-parse eggNOG annotation
+for
+https://github.com/YuLab-SMU/ProjectYulab/issues/16
