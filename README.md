@@ -3,7 +3,7 @@ https://github.com/YuLab-SMU/ProjectYulab/issues/16
 
 从eggNOG结果中解析GO数据库的信息，用于富集分析：
 
-`R/parse.GO.r`: 
+文件位置：`R/parse.GO.r` 
 
 `parse.eggNOG.GO `函数负责解析eggNOG结果
 
