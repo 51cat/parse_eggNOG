@@ -7,9 +7,9 @@ https://github.com/YuLab-SMU/ProjectYulab/issues/16
 
 `parse.eggNOG.GO `函数负责解析eggNOG结果
 
-输入： eggNOG的注释结果
+输入： eggNOG的注释结果文件
 
-输出：解析后注释结果中的通路id和基因信息，储存在一个list中
+输出：解析后的结果，储存在一个list中，list的每个元素如下
 
 ```
 TERM2GENE.CC -> Cellular Component的通路-gene数据
