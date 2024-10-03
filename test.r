@@ -1,3 +1,4 @@
+# test code
 source("../parse_eggNOG/R/parse.GO.r")
 
 res <- parse.eggNOG.GO("test_data/out.emapper.annotations")
